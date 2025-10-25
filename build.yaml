@@ -18,4 +18,4 @@
 #     artifact-name: corne_left_with_studio
 #
 board: ["seeeduino_xiao_ble"]
-shield: ["the_forty_six_left", "the_forty_six_right"]
+shield: ["the46_left", "the46_right"]
