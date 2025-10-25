@@ -1,5 +1,0 @@
-config SHIELD_THE_FORTY_SIX_LEFT
-    def_bool $(shields_list_contains,the_forty_six_left)
-
-config SHIELD_THE_FORTY_SIX_RIGHT
-    def_bool $(shields_list_contains,the_forty_six_right)

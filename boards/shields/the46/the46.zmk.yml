@@ -1,5 +1,5 @@
 file_format: "1"
-id: the_forty_six
+id: the46
 name: The Forty Six
 type: shield
 url: https://github.com/davidfriar/the46-zmk
@@ -11,5 +11,5 @@ features:
   - keys
   - display
 siblings:
-  - the_forty_six_left
-  - the_forty_six_right
+  - the46_left
+  - the46_right

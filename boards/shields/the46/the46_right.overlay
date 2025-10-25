@@ -1,4 +1,4 @@
-#include "the_forty_six.dtsi" 
+#include "the46.dtsi" 
 
 &kscan0 {
     col-gpios
