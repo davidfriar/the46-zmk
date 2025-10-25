@@ -1,3 +1,4 @@
+name: zmk-keyboard-the_forty_six
 build:
   settings:
     board_root: .
