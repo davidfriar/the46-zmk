@@ -17,6 +17,5 @@
 #     cmake-args: -DCONFIG_ZMK_STUDIO=y
 #     artifact-name: corne_left_with_studio
 #
----
 board: ["seeeduino_xiao_ble"]
-shield: ["the_forty_six_left", "the_forty_six_right"
+shield: ["the_forty_six_left", "the_forty_six_right"]
