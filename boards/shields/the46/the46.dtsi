@@ -90,8 +90,13 @@
     };
 };
 
+nice_view_spi: &spi0 {
+    compatible = "nordic,nrf-spim";
+    cs-gpios = <&xiao_d 7 GPIO_ACTIVE_HIGH>;
+};
 
 // uncomment this after Zephyr upgrade (and remove from .conf files)
 // &uicr {
 //     nfct-pins-as-gpios;
 // };
+
