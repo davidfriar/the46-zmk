@@ -22,3 +22,5 @@ include:
     shield: the46_left nice_view
   - board: seeeduino_xiao_ble
     shield: the46_right nice_view
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
