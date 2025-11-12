@@ -19,10 +19,10 @@
 #
 include:
   - board: seeeduino_xiao_ble
-    shield: the46_left nice_view
+    shield: the46_left nice_view_badger
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: seeeduino_xiao_ble
-    shield: the46_right nice_view
+    shield: the46_right nice_view_badger
   - board: seeeduino_xiao_ble
     shield: settings_reset
