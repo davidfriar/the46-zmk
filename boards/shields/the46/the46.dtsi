@@ -64,7 +64,7 @@ nice_view_spi: &spi0 {
 };
 
 // uncomment this after Zephyr upgrade (and remove from .conf files)
-// &uicr {
-//     nfct-pins-as-gpios;
-// };
+&uicr {
+    nfct-pins-as-gpios;
+};
 
