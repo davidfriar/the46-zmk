@@ -13,7 +13,7 @@ manifest:
       remote: zmkfirmware
       import: app/west.yml
       revision: main
-    - name: nicer-view
+    - name: nice-view-badger
       remote: badger
       revision: main
   self:
