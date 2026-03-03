@@ -20,7 +20,8 @@
 include:
   - board: xiao_ble
     shield: the46_left nicer_view
-    snippet: studio-rpc-usb-uart
+    #    snippet: studio-rpc-usb-uart
+    snippet: zmk-usb-logging
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: xiao_ble
     shield: the46_right nicer_view
